@@ -1,0 +1,15 @@
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Interfaces\bin\Debug\net7.0\EMS.Data.Interfaces.deps.json
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Interfaces\bin\Debug\net7.0\EMS.Data.Interfaces.dll
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Interfaces\bin\Debug\net7.0\EMS.Data.Interfaces.pdb
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Interfaces\bin\Debug\net7.0\EMS.Data.Models.dll
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Interfaces\bin\Debug\net7.0\EMS.Data.Models.pdb
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Interfaces\obj\Debug\net7.0\EMS.Data.Interfaces.csproj.AssemblyReference.cache
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Interfaces\obj\Debug\net7.0\EMS.Data.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Interfaces\obj\Debug\net7.0\EMS.Data.Interfaces.AssemblyInfoInputs.cache
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Interfaces\obj\Debug\net7.0\EMS.Data.Interfaces.AssemblyInfo.cs
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Interfaces\obj\Debug\net7.0\EMS.Data.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Interfaces\obj\Debug\net7.0\EMS.Data.Interfaces.csproj.CopyComplete
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Interfaces\obj\Debug\net7.0\EMS.Data.Interfaces.dll
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Interfaces\obj\Debug\net7.0\refint\EMS.Data.Interfaces.dll
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Interfaces\obj\Debug\net7.0\EMS.Data.Interfaces.pdb
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Interfaces\obj\Debug\net7.0\ref\EMS.Data.Interfaces.dll

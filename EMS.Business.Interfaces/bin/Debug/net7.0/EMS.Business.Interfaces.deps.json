@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EMS.Business.Interfaces/1.0.0": {
+        "dependencies": {
+          "EMS.Business.Models": "1.0.0"
+        },
+        "runtime": {
+          "EMS.Business.Interfaces.dll": {}
+        }
+      },
+      "EMS.Business.Models/1.0.0": {
+        "dependencies": {
+          "EMS.Data.Models": "1.0.0"
+        },
+        "runtime": {
+          "EMS.Business.Models.dll": {}
+        }
+      },
+      "EMS.Data.Models/1.0.0": {
+        "runtime": {
+          "EMS.Data.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EMS.Business.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EMS.Business.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EMS.Data.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

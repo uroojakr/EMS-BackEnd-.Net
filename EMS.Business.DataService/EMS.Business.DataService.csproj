@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="Microsoft.Build.Framework" Version="17.3.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.11" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EMS.Business.Interfaces\EMS.Business.Interfaces.csproj" />
+    <ProjectReference Include="..\EMS.Data.Interfaces\EMS.Data.Interfaces.csproj" />
+    <ProjectReference Include="..\Repositories\EMS.Data.csproj" />
+  </ItemGroup>
+
+</Project>

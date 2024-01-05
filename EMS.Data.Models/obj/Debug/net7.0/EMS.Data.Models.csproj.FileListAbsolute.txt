@@ -1,0 +1,11 @@
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Models\bin\Debug\net7.0\EMS.Data.Models.deps.json
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Models\bin\Debug\net7.0\EMS.Data.Models.dll
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Models\bin\Debug\net7.0\EMS.Data.Models.pdb
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Models\obj\Debug\net7.0\EMS.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Models\obj\Debug\net7.0\EMS.Data.Models.AssemblyInfoInputs.cache
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Models\obj\Debug\net7.0\EMS.Data.Models.AssemblyInfo.cs
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Models\obj\Debug\net7.0\EMS.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Models\obj\Debug\net7.0\EMS.Data.Models.dll
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Models\obj\Debug\net7.0\refint\EMS.Data.Models.dll
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Models\obj\Debug\net7.0\EMS.Data.Models.pdb
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Data.Models\obj\Debug\net7.0\ref\EMS.Data.Models.dll

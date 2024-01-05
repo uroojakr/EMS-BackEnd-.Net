@@ -1,0 +1,15 @@
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Business.Models\bin\Debug\net7.0\EMS.Business.Models.deps.json
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Business.Models\bin\Debug\net7.0\EMS.Business.Models.dll
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Business.Models\bin\Debug\net7.0\EMS.Business.Models.pdb
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Business.Models\bin\Debug\net7.0\EMS.Data.Models.dll
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Business.Models\bin\Debug\net7.0\EMS.Data.Models.pdb
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Business.Models\obj\Debug\net7.0\EMS.Business.Models.csproj.AssemblyReference.cache
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Business.Models\obj\Debug\net7.0\EMS.Business.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Business.Models\obj\Debug\net7.0\EMS.Business.Models.AssemblyInfoInputs.cache
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Business.Models\obj\Debug\net7.0\EMS.Business.Models.AssemblyInfo.cs
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Business.Models\obj\Debug\net7.0\EMS.Business.Models.csproj.CoreCompileInputs.cache
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Business.Models\obj\Debug\net7.0\EMS.Business.Models.csproj.CopyComplete
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Business.Models\obj\Debug\net7.0\EMS.Business.Models.dll
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Business.Models\obj\Debug\net7.0\refint\EMS.Business.Models.dll
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Business.Models\obj\Debug\net7.0\EMS.Business.Models.pdb
+C:\Users\akramuro\source\repos\EMS-Project\EMS.Business.Models\obj\Debug\net7.0\ref\EMS.Business.Models.dll

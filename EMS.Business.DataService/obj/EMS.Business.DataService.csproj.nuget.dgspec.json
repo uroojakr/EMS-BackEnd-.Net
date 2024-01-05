@@ -1,0 +1,453 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Business.DataService\\EMS.Business.DataService.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Business.DataService\\EMS.Business.DataService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Business.DataService\\EMS.Business.DataService.csproj",
+        "projectName": "EMS.Business.DataService",
+        "projectPath": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Business.DataService\\EMS.Business.DataService.csproj",
+        "packagesPath": "C:\\Users\\akramuro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Business.DataService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\akramuro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Business.Interfaces\\EMS.Business.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Business.Interfaces\\EMS.Business.Interfaces.csproj"
+              },
+              "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Data.Interfaces\\EMS.Data.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Data.Interfaces\\EMS.Data.Interfaces.csproj"
+              },
+              "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\Repositories\\EMS.Data.csproj": {
+                "projectPath": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\Repositories\\EMS.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.Build.Framework": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Business.Interfaces\\EMS.Business.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Business.Interfaces\\EMS.Business.Interfaces.csproj",
+        "projectName": "EMS.Business.Interfaces",
+        "projectPath": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Business.Interfaces\\EMS.Business.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\akramuro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Business.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\akramuro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Business.Models\\EMS.Business.Models.csproj": {
+                "projectPath": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Business.Models\\EMS.Business.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Business.Models\\EMS.Business.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Business.Models\\EMS.Business.Models.csproj",
+        "projectName": "EMS.Business.Models",
+        "projectPath": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Business.Models\\EMS.Business.Models.csproj",
+        "packagesPath": "C:\\Users\\akramuro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Business.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\akramuro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Data.Models\\EMS.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Data.Models\\EMS.Data.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Data.Interfaces\\EMS.Data.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Data.Interfaces\\EMS.Data.Interfaces.csproj",
+        "projectName": "EMS.Data.Interfaces",
+        "projectPath": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Data.Interfaces\\EMS.Data.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\akramuro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Data.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\akramuro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Data.Models\\EMS.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Data.Models\\EMS.Data.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Data.Models\\EMS.Data.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Data.Models\\EMS.Data.Models.csproj",
+        "projectName": "EMS.Data.Models",
+        "projectPath": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Data.Models\\EMS.Data.Models.csproj",
+        "packagesPath": "C:\\Users\\akramuro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Data.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\akramuro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\Repositories\\EMS.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\Repositories\\EMS.Data.csproj",
+        "projectName": "EMS.Data",
+        "projectPath": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\Repositories\\EMS.Data.csproj",
+        "packagesPath": "C:\\Users\\akramuro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\akramuro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Data.Interfaces\\EMS.Data.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Data.Interfaces\\EMS.Data.Interfaces.csproj"
+              },
+              "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Data.Models\\EMS.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\akramuro\\source\\repos\\EMS-Project\\EMS.Data.Models\\EMS.Data.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Abp": {
+              "target": "Package",
+              "version": "[8.3.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
